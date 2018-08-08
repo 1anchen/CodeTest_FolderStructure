@@ -1,4 +1,4 @@
-# CodeTest_FolderStructure-
+# CodeTest_FolderStructure
 using LiveCode to create a FolderStructure using building tree view widget 
 Build a tree view to display file/folder, using LiveCode and the Tree View Widget.
 
